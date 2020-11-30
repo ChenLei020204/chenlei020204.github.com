@@ -8,7 +8,7 @@
       <p><b>地址：，邮编×××</b></p>
     </td>
     <td width="25%">
-      <img src="/TU~N5_P)ZUTTP}]}U)1KU_G.jp" width="100%">      % 插入证件照代码
+      <img src="/TU~N5_P)ZUTTP}]}U)1KU_G.jp" width="100%">   
     </td>
   </tr>
 </table>
